@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component MAtches the snapshot 1`] = `[Function]`;
+
+exports[`App Component Matches the snapshot 1`] = `[Function]`;
+
+exports[`App renders without crashing given the required props 1`] = `
+<div
+  className="App"
+>
+  <div>
+    <input
+      onChange={[Function]}
+      placeholder="Enter a todo"
+      type="text"
+      value=""
+    />
+    <button
+      onClick={[Function]}
+      type="button"
+    >
+      Add
+    </button>
+  </div>
+  <ul>
+    <p>
+      No Todos Yet :(
+    </p>
+  </ul>
+</div>
+`;
